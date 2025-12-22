@@ -38,7 +38,7 @@ Transport is ideal for:
 
 Below are example layouts included with the Transport theme.
 
-![Transport Homepage](screenshots/transport-main.jpg)
+![Transport Homepage](screenshots/transport-main.webp)
 ![Transport Services](screenshots/transport-vehicle_fleet.jpg)
 ![Transport About](screenshots/transport-about.jpg)
 
